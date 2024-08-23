@@ -28,8 +28,8 @@ To run this project, you will need to have the following Python libraries instal
 1) Clone the repository:
 
 ```bash
-  git clone https://github.com/your-username/simple-linear-regression.git
-  cd simple-linear-regression
+  git clone https://github.com/himpar21/SimpleLinearRegression
+  cd SimpleLinearRegression
 ```
 2) Add your datasets:
   Place the train.csv and test.csv files in the root directory of the project.
